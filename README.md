@@ -2,7 +2,7 @@
 
 ###Features
 
-- Uses an OTP library to generate One-Time-Passwords that can be used in combination with Google Authenticator or RSA tokens
+- Uses an OTP library to generate One-Time-Passwords that can be used in combination with Google Authenticator or RSA tokens. HEX version of key can be generated using this page: http://nickbelbas.servehttp.com/TOTP.html
 - Allows for ease of use by allowing individuals inside the door to exit hands-free without needing to grab anything
 
 ###More Info
