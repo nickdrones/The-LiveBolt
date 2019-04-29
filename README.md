@@ -1,11 +1,11 @@
-![](https://github.com/nickdrones/The-LiveBolt/blob/master/Logo.PNG?raw=true =250x250)
+<img src="https://github.com/nickdrones/The-LiveBolt/blob/master/Logo.PNG?raw=true" width="250">
 
-###Features
+#Features
 
 - Uses an OTP library to generate One-Time-Passwords that can be used in combination with Google Authenticator or RSA tokens. HEX version of key can be generated using this page: http://nickbelbas.servehttp.com/TOTP.html
 - Allows for ease of use by allowing individuals inside the door to exit hands-free without needing to grab anything
 
-###More Info
+#More Info
 
 > Coming Soon, finals are annoying
 
