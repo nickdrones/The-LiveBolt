@@ -1,4 +1,4 @@
-![](https://github.com/nickdrones/The-LiveBolt/blob/master/Logo.PNG?raw=true)
+![](https://github.com/nickdrones/The-LiveBolt/blob/master/Logo.PNG?raw=true =250x250)
 
 ###Features
 
